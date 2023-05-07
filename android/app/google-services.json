@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "891385107664",
+    "firebase_url": "https://heart-step-ok-default-rtdb.firebaseio.com",
+    "project_id": "heart-step-ok",
+    "storage_bucket": "heart-step-ok.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891385107664:android:40aa696004dc531feafad5",
+        "android_client_info": {
+          "package_name": "com.example.oxygen_detector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891385107664-c3dgmf8eft4q07o8jig00pou94rqlg7m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ9cbpLJJLHmgGww6VFkROZpMTRtWEfnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "891385107664-c3dgmf8eft4q07o8jig00pou94rqlg7m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
